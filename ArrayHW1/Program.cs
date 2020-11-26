@@ -27,7 +27,7 @@ namespace ArrayHW1
 
             }
 
-            Console.WriteLine("\nВывод масива ");
+            Console.WriteLine("\nВивід масиву ");
 
             for (int i = myArray.Length - 1; i >= 0; i--)
             {
