@@ -1,0 +1,7 @@
+D:\Web\C#\Arrays\ArrayHW1\bin\Debug\ArrayHW1.exe.config
+D:\Web\C#\Arrays\ArrayHW1\bin\Debug\ArrayHW1.exe
+D:\Web\C#\Arrays\ArrayHW1\bin\Debug\ArrayHW1.pdb
+D:\Web\C#\Arrays\ArrayHW1\obj\Debug\ArrayHW1.csprojAssemblyReference.cache
+D:\Web\C#\Arrays\ArrayHW1\obj\Debug\ArrayHW1.csproj.CoreCompileInputs.cache
+D:\Web\C#\Arrays\ArrayHW1\obj\Debug\ArrayHW1.exe
+D:\Web\C#\Arrays\ArrayHW1\obj\Debug\ArrayHW1.pdb

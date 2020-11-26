@@ -1,0 +1,7 @@
+D:\Web\C#\Arrays\oddNumbersSum\bin\Debug\oddNumbersSum.exe.config
+D:\Web\C#\Arrays\oddNumbersSum\bin\Debug\oddNumbersSum.exe
+D:\Web\C#\Arrays\oddNumbersSum\bin\Debug\oddNumbersSum.pdb
+D:\Web\C#\Arrays\oddNumbersSum\obj\Debug\oddNumbersSum.csprojAssemblyReference.cache
+D:\Web\C#\Arrays\oddNumbersSum\obj\Debug\oddNumbersSum.csproj.CoreCompileInputs.cache
+D:\Web\C#\Arrays\oddNumbersSum\obj\Debug\oddNumbersSum.exe
+D:\Web\C#\Arrays\oddNumbersSum\obj\Debug\oddNumbersSum.pdb
